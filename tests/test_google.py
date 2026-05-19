@@ -13,3 +13,4 @@ def test_google():
         assert "Google" in page.title()
 
         browser.close()
+        
